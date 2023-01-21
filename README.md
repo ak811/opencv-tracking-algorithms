@@ -9,6 +9,11 @@
 
 <br>
 
+## Overview
+This project aims to use various tracking algorithms to track objects within a video. The project will explore different optical flow algorithms such as Lucas-Kanade and Gunnar-Farneback, as well as Mean-shift and CAMShift tracking algorithms. These algorithms are used to estimate the motion of objects in a video by analyzing consecutive frames. The Lucas-Kanade method tracks the movement of feature points, while Gunnar-Farneback estimates the optical flow for a dense grid of points. Mean-shift and CAMShift are both used for object tracking by finding the object's color histogram in each frame. The project will also test some tracking APIs, such as MIL, KCF, and TLD algorithm, which are pre-trained models that can be used for object tracking. The goal of the project is to compare the performance of these various tracking algorithms and APIs and to choose the best one for a specific use case.
+
+<br>
+
 ## Getting Started
 #### 1. Fork and clone the repository:
   ```
