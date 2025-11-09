@@ -1,4 +1,4 @@
-# Object Tracking
+# Object tracking with Lucas–Kanade, Farnebäck, Mean/CAMShift, and OpenCV tracker APIs (KCF/MIL/TLD)
 
 ### In this repository
 - Lucas-Kanade Optical Flow
