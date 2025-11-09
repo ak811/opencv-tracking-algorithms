@@ -182,13 +182,6 @@ Some builds **do not ship TLD** anymore; if `TrackerTLD_create` fails, pick a di
 
 ---
 
-## License
-
-MIT (or the original license of this repository if different).
-If you redistribute pretrained models or cascades, please follow their respective licenses.
-
----
-
 ## Acknowledgments
 
 * OpenCV team and contributors for algorithms and pre-trained cascades.
