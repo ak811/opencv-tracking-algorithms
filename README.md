@@ -1,4 +1,4 @@
-# Object Tracking with Lucas–Kanade, Farnebäck, Mean/CAMShift, and OpenCV Tracker APIs
+# Lucas-Kanade & Farneback optical flow, MeanShift/CAMShift, and OpenCV KCF/MIL trackers
 
 A lightweight playground for classic object-tracking algorithms using OpenCV. Compare sparse & dense optical flow (Lucas–Kanade / Farnebäck), color-based trackers (MeanShift / CAMShift), and several OpenCV tracker APIs (MIL/KCF/TLD/Boosting/MedianFlow).
 
